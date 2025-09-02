@@ -1,0 +1,62 @@
+Country,State,City,StoreID,Sales
+United States,California,Los Angeles,CA-LO-1,39828
+United States,California,San Francisco,CA-SA-1,24749
+United States,California,San Francisco,CA-SA-2,24485
+United States,California,San Diego,CA-SA-1,8867
+United States,California,San Diego,CA-SA-2,36381
+United States,California,San Diego,CA-SA-3,14066
+United States,California,Sacramento,CA-SA-1,28691
+United States,Texas,Houston,TE-HO-1,38108
+United States,Texas,Houston,TE-HO-2,39251
+United States,Texas,Houston,TE-HO-3,37286
+United States,Texas,Dallas,TE-DA-1,28095
+United States,Texas,Dallas,TE-DA-2,10765
+United States,Texas,Dallas,TE-DA-3,42788
+United States,Texas,Austin,TE-AU-1,27515
+United States,Texas,Austin,TE-AU-2,21685
+United States,Texas,San Antonio,TE-SA-1,46704
+United States,New York,New York,NE-NE-1,33973
+United States,New York,New York,NE-NE-2,23108
+United States,New York,New York,NE-NE-3,42024
+United States,New York,Buffalo,NE-BU-1,24953
+United States,New York,Buffalo,NE-BU-2,25270
+United States,New York,Rochester,NE-RO-1,9146
+United States,New York,Albany,NE-AL-1,44955
+United States,New York,Albany,NE-AL-2,7871
+United States,Florida,Miami,FL-MI-1,42243
+United States,Florida,Miami,FL-MI-2,17454
+United States,Florida,Miami,FL-MI-3,33424
+United States,Florida,Orlando,FL-OR-1,39113
+United States,Florida,Tampa,FL-TA-1,20953
+United States,Florida,Tampa,FL-TA-2,8056
+United States,Florida,Tampa,FL-TA-3,48681
+United States,Florida,Jacksonville,FL-JA-1,45190
+United States,Florida,Jacksonville,FL-JA-2,35506
+United States,Illinois,Chicago,IL-CH-1,39195
+United States,Illinois,Chicago,IL-CH-2,13758
+United States,Illinois,Chicago,IL-CH-3,21375
+United States,Illinois,Springfield,IL-SP-1,27400
+United States,Illinois,Springfield,IL-SP-2,6971
+United States,Illinois,Naperville,IL-NA-1,11943
+United States,Illinois,Naperville,IL-NA-2,38451
+United States,Washington,Seattle,WA-SE-1,46513
+United States,Washington,Seattle,WA-SE-2,38514
+United States,Washington,Seattle,WA-SE-3,21498
+United States,Washington,Spokane,WA-SP-1,23488
+United States,Washington,Spokane,WA-SP-2,19662
+United States,Washington,Spokane,WA-SP-3,45749
+United States,Washington,Tacoma,WA-TA-1,8435
+United States,Washington,Tacoma,WA-TA-2,26130
+United States,Georgia,Atlanta,GE-AT-1,13526
+United States,Georgia,Atlanta,GE-AT-2,25832
+United States,Georgia,Atlanta,GE-AT-3,10846
+United States,Georgia,Savannah,GE-SA-1,26406
+United States,Georgia,Savannah,GE-SA-2,19858
+United States,Georgia,Savannah,GE-SA-3,15210
+United States,Georgia,Augusta,GE-AU-1,35141
+United States,Georgia,Augusta,GE-AU-2,47313
+United States,Arizona,Phoenix,AR-PH-1,12230
+United States,Arizona,Phoenix,AR-PH-2,42470
+United States,Arizona,Tucson,AR-TU-1,36511
+United States,Arizona,Tucson,AR-TU-2,9375
+United States,Arizona,Mesa,AR-ME-1,39552
